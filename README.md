@@ -4,8 +4,8 @@ Sou desenvolvedor com foco em back-end, apaixonado por tecnologia e inovação. 
 
 - 🌱 Atualmente aprendendo: Concluindo um curso de Java na plataforma DIO e me preparando para aprofundar em C#, React e Docker. Também planejo iniciar novos projetos envolvendo IoT e seguir essa área de pesquisa no meu futuro mestrado.
 - 💬 Me pergunte sobre: Algoritmos, banco de dados, IoT e UML.
-- 📫 Como me contatar: | Silva_2907@outlook.com | thiago.2021319130@aluno.iffar.edu.br | https://www.linkedin.com/in/thiago-aires-356931204/ |
-|---|---|---|---|---|---|---|---|---|
+- 📫 Como me contatar: | Silva_2907@outlook.com | thiago.2021319130@aluno.iffar.edu.br | [LinkedIn](https://www.linkedin.com/in/thiago-aires-356931204/) |
+|---|---|---|
 
 ## Tecnologias e Ferramentas:
 
