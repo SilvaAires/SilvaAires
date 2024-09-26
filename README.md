@@ -4,7 +4,9 @@ Sou desenvolvedor com foco em back-end, apaixonado por tecnologia e inovação. 
 
 - 🌱 Atualmente aprendendo: Concluindo um curso de Java na plataforma DIO e me preparando para aprofundar em C#, React e Docker. Também planejo iniciar novos projetos envolvendo IoT e seguir essa área de pesquisa no meu futuro mestrado.
 - 💬 Me pergunte sobre: Algoritmos, banco de dados, IoT e UML.
-- 📫 Como me contatar: [![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:Silva_2907@outlook.com) Silva_2907@outlook.com | [![Email IFFAR](https://img.shields.io/badge/Email-0056D3?logo=gmail&logoColor=white)](mailto:thiago.2021319130@aluno.iffar.edu.br) thiago.2021319130@aluno.iffar.edu.br | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-aires-356931204/)
+- 📫 Como me contatar: [![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:Silva_2907@outlook.com) Silva_2907@outlook.com |
+- [![Email IFFAR](https://img.shields.io/badge/Email-0056D3?logo=gmail&logoColor=white)](mailto:thiago.2021319130@aluno.iffar.edu.br) thiago.2021319130@aluno.iffar.edu.br |
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-aires-356931204/)
 
 ## Tecnologias e Ferramentas:
 - ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
