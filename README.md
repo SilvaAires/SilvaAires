@@ -21,8 +21,7 @@ Sou desenvolvedor com foco em back-end, apaixonado por tecnologia e inovação. 
 
 </div>
 
-<!-- Fim da nota 
-
+<!-- Tabela de outra forma feita porém esta comentada 
 ## Tecnologias e Ferramentas:
 
 <div align="center">
