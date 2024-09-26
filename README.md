@@ -1,4 +1,4 @@
-# Olá, eu sou [Thiago] 👋
+# Olá, eu sou Thiago 👋
 
 Sou desenvolvedor com foco em back-end, apaixonado por tecnologia e inovação. Tenho experiência sólida em Java, PHP, JavaScript e C++, e estou sempre em busca de aprender novas ferramentas e linguagens. Atualmente, estou trabalhando em um sistema de irrigação autônomo, e ampliando meus conhecimentos em C# e React, além de explorar novas tecnologias como Docker.
 
