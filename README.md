@@ -17,9 +17,9 @@ Sou desenvolvedor focado em [área de atuação]. Tenho experiência com [tecnol
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SilvaAires&show_icons=true&theme=radical)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvaAires&layout=compact&theme=radical)
 
 ![Programador Codando](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
