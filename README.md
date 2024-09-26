@@ -7,6 +7,9 @@ Sou desenvolvedor com foco em back-end, apaixonado por tecnologia e inovação. 
 - 📫 Como me contatar: Silva_2907@outlook.com | thiago.2021319130@aluno.iffar.edu.br | linkedin.com/in/thiago-aires-356931204
 
 ## Tecnologias e Ferramentas:
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+          
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 - ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
