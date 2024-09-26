@@ -21,8 +21,6 @@ Sou desenvolvedor focado em [área de atuação]. Tenho experiência com [tecnol
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
 
-![GIF](link-para-gif)
-
 ![Programador Codando](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](link-para-seu-perfil)
