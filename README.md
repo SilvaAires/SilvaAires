@@ -21,7 +21,7 @@ Sou desenvolvedor com foco em back-end, apaixonado por tecnologia e inovação. 
 
 </div>
 
-<!-- Fim da nota -->
+<!-- Fim da nota 
 
 ## Tecnologias e Ferramentas:
 
@@ -58,7 +58,7 @@ Sou desenvolvedor com foco em back-end, apaixonado por tecnologia e inovação. 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 </div>
-
+-->
 
 
 
