@@ -68,15 +68,18 @@ Sou desenvolvedor com foco em back-end, apaixonado por tecnologia e inovação. 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([link-para-seu-perfil](https://www.linkedin.com/in/thiago-aires-356931204/))
 
 <details>
-  <summary>🎮 Clique para ver a animação da Cobra!</summary>
+  <summary>🐍 Siga os meus commits!</summary>
   
+  ![Snake animation](https://github.com/SilvaAires/SilvaAires/blob/output/github-contribution-grid-snake.svg)
   ![Snake animation](https://github.com/SilvaAires/SilvaAires/blob/output/github-contribution-grid-snake.svg)
 
 </details>
 
 <details>
-  <summary>🏆 Meus troféus</summary>
+  <summary>🏆 Meus Troféus no GitHub</summary>
 
   ![Troféus](https://github-profile-trophy.vercel.app/?username=SilvaAires&theme=onedark)
+  
+  ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=SilvaAires&theme=onedark&title=MultiLanguage,Commits,Repositories,Stars)
 
 </details>
