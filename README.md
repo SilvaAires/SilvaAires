@@ -69,37 +69,11 @@ Sou desenvolvedor com foco em back-end, apaixonado por tecnologia e inovação. 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([link-para-seu-perfil](https://www.linkedin.com/in/thiago-aires-356931204/))
 
 <details>
-  <summary>🐍 Siga os meus commits!</summary>
-  
-  ![Snake animation](https://github.com/SilvaAires/SilvaAires/blob/output/github-contribution-grid-snake.svg)
-  ![Snake animation](https://github.com/SilvaAires/SilvaAires/blob/output/github-contribution-grid-snake.svg)
-
-</details>
-
-<details>
   <summary>🏆 Meus Troféus no GitHub</summary>
 
   ![Troféus](https://github-profile-trophy.vercel.app/?username=SilvaAires&theme=onedark)
 
 </details>
 
-</div>
-</details>
-
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 
