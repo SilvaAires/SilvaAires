@@ -113,3 +113,5 @@ Sou desenvolvedor com foco em back-end, apaixonado por tecnologia e inovação. 
   />
 </picture>
 
+## 🐍 Siga os meus commits!
+![Snake animation](https://github.com/SilvaAires/SilvaAires/blob/output/dist/github-contribution-grid-snake.svg)
