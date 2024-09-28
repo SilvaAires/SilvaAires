@@ -66,8 +66,6 @@ Sou desenvolvedor com foco em back-end, apaixonado por tecnologia e inovação. 
 |---|---|
 
 
-  ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=SilvaAires&theme=onedark&title=MultiLanguage,Commits,Repositories,Stars)
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([link-para-seu-perfil](https://www.linkedin.com/in/thiago-aires-356931204/))
 
 <details>
@@ -82,6 +80,5 @@ Sou desenvolvedor com foco em back-end, apaixonado por tecnologia e inovação. 
   <summary>🏆 Meus Troféus no GitHub</summary>
 
   ![Troféus](https://github-profile-trophy.vercel.app/?username=SilvaAires&theme=onedark)
-  
 
 </details>
