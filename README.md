@@ -86,17 +86,6 @@ Sou desenvolvedor com foco em back-end, apaixonado por tecnologia e inovação. 
 </div>
 </details>
 
-<details>
-  <summary><b>⛎ My Pet</b></summary>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SilvaAires/SilvaAires/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SilvaAires/SilvaAires/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SilvaAires/SilvaAires/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
-</details>
 
 <picture>
   <source
@@ -113,5 +102,4 @@ Sou desenvolvedor com foco em back-end, apaixonado por tecnologia e inovação. 
   />
 </picture>
 
-## 🐍 Siga os meus commits!
-![Snake animation](https://github.com/SilvaAires/SilvaAires/blob/output/dist/github-contribution-grid-snake.svg)
+
